@@ -1,0 +1,6 @@
+{
+  "issuer": "https://yhsel.github.io",
+  "jwks_uri": "https://yhsel.github.io/.well-known/jwks.json",
+  "client_name": "yhsel",
+  "logo_uri": "https://avatars.githubusercontent.com/u/172168197?v=4"
+}
